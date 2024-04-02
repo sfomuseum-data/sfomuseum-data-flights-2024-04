@@ -2,10 +2,12 @@
   "id": 1897807955,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-01",
+    "date:cessation_upper": "2024-04-01",
     "date:inception_lower": "2024-04-01",
     "date:inception_upper": "2024-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-01",
+    "edtf:cessation": "2024-04-01T18:30:00Z",
+    "edtf:inception": "2024-04-01T16:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-04-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "81849548"
+    },
     "wof:country": "US",
     "wof:created": 1712074409,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -45,12 +55,12 @@
     ],
     "wof:id": 1897807955,
     "wof:involves": [
+      1159292085,
       102527513,
       102532251,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1712074409,
+    "wof:lastmodified": 1712075436,
     "wof:name": "UA3869 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

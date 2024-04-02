@@ -2,10 +2,12 @@
   "id": 1897810237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-01",
+    "date:cessation_upper": "2024-04-01",
     "date:inception_lower": "2024-04-01",
     "date:inception_upper": "2024-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-01",
+    "edtf:cessation": "2024-04-01T12:28:00Z",
+    "edtf:inception": "2024-04-01T08:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-04-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.8002995,
     "geom:longitude": -106.31638749999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530009,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N663DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "81760273",
+      "swim:gufi": "KO23162200"
+    },
     "wof:country": "US",
     "wof:created": 1712074939,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1897810237,
     "wof:involves": [
+      1159289939,
       102530009,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1712074939,
+    "wof:lastmodified": 1712075447,
     "wof:name": "DL8838 (SFO-MSY)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

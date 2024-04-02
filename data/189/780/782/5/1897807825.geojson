@@ -2,10 +2,12 @@
   "id": 1897807825,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-04-01",
-    "date:inception_upper": "2024-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-01",
+    "date:cessation_lower": "2024-04-01",
+    "date:cessation_upper": "2024-04-01",
+    "date:inception_lower": "2024-04-02",
+    "date:inception_upper": "2024-04-02",
+    "edtf:cessation": "2024-04-01T15:31:36-07:00",
+    "edtf:inception": "2024-04-02T02:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240401-A-ACA-3970",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N416UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81744592",
+      "swim:gufi": "KF82540200"
+    },
     "wof:country": "US",
     "wof:created": 1712074380,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897807825,
     "wof:involves": [
-      102527513,
       102528541,
       1159285413,
       1763588291,
-      1159283597
+      1159283597,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1712074380,
+    "wof:lastmodified": 1712075435,
     "wof:name": "UA2005 (DFW-SFO)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897811705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-01",
+    "date:cessation_upper": "2024-04-01",
     "date:inception_lower": "2024-04-01",
     "date:inception_upper": "2024-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-01",
+    "edtf:cessation": "2024-04-01T18:57:57Z",
+    "edtf:inception": "2024-04-01T00:15:17-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "BEL",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20240401-D-BEL-8942",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17104",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81779956",
+      "swim:gufi": "KO41564200"
+    },
     "wof:country": "US",
     "wof:created": 1712075283,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897811705,
     "wof:involves": [
+      1763588315,
+      1377675597,
+      1159289939,
       102530049,
       102527513,
-      1159285413,
-      1763588315,
-      1377675597
+      1159285413
     ],
-    "wof:lastmodified": 1712075283,
+    "wof:lastmodified": 1712075455,
     "wof:name": "UA419 (SFO-EWR)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897807497,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-01",
+    "date:cessation_upper": "2024-04-01",
     "date:inception_lower": "2024-04-01",
     "date:inception_upper": "2024-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-01",
+    "edtf:cessation": "2024-04-01T08:23:00Z",
+    "edtf:inception": "2024-04-01T06:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-04-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -48,6 +52,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81757842",
+      "swim:gufi": "KA18975200"
+    },
     "wof:country": "US",
     "wof:created": 1712074304,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1897807497,
     "wof:involves": [
+      1159289871,
       102527513,
       102526751,
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1712074304,
+    "wof:lastmodified": 1712075432,
     "wof:name": "WN5165 (PHX-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",
