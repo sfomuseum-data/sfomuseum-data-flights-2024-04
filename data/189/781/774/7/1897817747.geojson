@@ -2,10 +2,12 @@
   "id": 1897817747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-02",
+    "date:cessation_upper": "2024-04-02",
     "date:inception_lower": "2024-04-02",
     "date:inception_upper": "2024-04-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-02",
+    "edtf:cessation": "2024-04-02T14:13:17-07:00",
+    "edtf:inception": "2024-04-02T23:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.5237975,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61868,
     "lbl:longitude": -122.386556,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240402-A-ANZ-9138",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N76514",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81921981",
+      "swim:gufi": "KM76502300"
+    },
     "wof:country": "US",
     "wof:created": 1712160927,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -90,9 +104,10 @@
       102525035,
       1159285413,
       1763588275,
-      1159283697
+      1159283697,
+      1159289871
     ],
-    "wof:lastmodified": 1712160927,
+    "wof:lastmodified": 1712162031,
     "wof:name": "UA483 (BNA-SFO)",
     "wof:parent_id": 1763588275,
     "wof:placetype": "custom",
