@@ -2,10 +2,12 @@
   "id": 1897875211,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-04-08",
-    "date:inception_upper": "2024-04-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-08",
+    "date:cessation_lower": "2024-04-08",
+    "date:cessation_upper": "2024-04-08",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2024-04-08T01:36:57-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:date": "2024-04-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "B6",
+    "icao:aircraft": "A320",
     "icao:airline": "JBU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N638JB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -84,9 +92,10 @@
       102527513,
       102533795,
       1159284583,
-      1763588199
+      1763588199,
+      1159292085
     ],
-    "wof:lastmodified": 1712679011,
+    "wof:lastmodified": 1712680305,
     "wof:name": "B68357 (LAX-SFO)",
     "wof:parent_id": 1763588199,
     "wof:placetype": "custom",

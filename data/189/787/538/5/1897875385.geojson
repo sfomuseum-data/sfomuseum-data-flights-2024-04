@@ -2,10 +2,12 @@
   "id": 1897875385,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-04-08",
-    "date:inception_upper": "2024-04-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-08",
+    "date:cessation_lower": "2024-04-08",
+    "date:cessation_upper": "2024-04-08",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2024-04-08T05:08:57-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PD",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "PD",
     "iata:base_airline": "",
+    "icao:aircraft": "E295",
     "icao:airline": "POE",
     "icao:base_airline": "TSC",
     "lbl:latitude": 37.61799,
@@ -39,6 +42,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGZQC",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -92,7 +99,7 @@
       1763588267,
       1159283753
     ],
-    "wof:lastmodified": 1712679052,
+    "wof:lastmodified": 1712680285,
     "wof:name": "PD669 (YYZ-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",
