@@ -2,10 +2,12 @@
   "id": 1897888465,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-09",
+    "date:cessation_upper": "2024-04-09",
     "date:inception_lower": "2024-04-09",
     "date:inception_upper": "2024-04-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-09",
+    "edtf:cessation": "2024-04-09T23:16:00Z",
+    "edtf:inception": "2024-04-09T19:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20240409-D-KLM-5606",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N839DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82567590"
+    },
     "wof:country": "US",
     "wof:created": 1712766205,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1897888465,
     "wof:involves": [
+      1763588247,
+      1159284613,
+      1377564285,
       102526927,
       102527513,
-      1159284261,
-      1763588247,
-      1159284613
+      1159284261
     ],
-    "wof:lastmodified": 1712766205,
+    "wof:lastmodified": 1712766719,
     "wof:name": "DL916 (SFO-ATL)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

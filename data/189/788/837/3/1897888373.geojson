@@ -2,10 +2,12 @@
   "id": 1897888373,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-09",
+    "date:cessation_upper": "2024-04-09",
     "date:inception_lower": "2024-04-09",
     "date:inception_upper": "2024-04-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-09",
+    "edtf:cessation": "2024-04-09T16:41:00Z",
+    "edtf:inception": "2024-04-09T13:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82530712"
+    },
     "wof:country": "US",
     "wof:created": 1712766184,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -92,7 +97,7 @@
       1763588245,
       1159283627
     ],
-    "wof:lastmodified": 1712766184,
+    "wof:lastmodified": 1712766719,
     "wof:name": "DL1269 (SFO-MSP)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

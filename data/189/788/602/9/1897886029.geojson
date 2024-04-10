@@ -2,10 +2,12 @@
   "id": 1897886029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-09",
+    "date:cessation_upper": "2024-04-09",
     "date:inception_lower": "2024-04-09",
     "date:inception_upper": "2024-04-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-09",
+    "edtf:cessation": "2024-04-09T05:18:28-07:00",
+    "edtf:inception": "2024-04-09T18:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240409-A-DLH-9235",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N443UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82557599",
+      "swim:gufi": "KS49460300"
+    },
     "wof:country": "US",
     "wof:created": 1712765639,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -90,9 +104,10 @@
       102532251,
       1159285413,
       1763588283,
-      1159286015
+      1159286015,
+      1159292085
     ],
-    "wof:lastmodified": 1712765639,
+    "wof:lastmodified": 1712766712,
     "wof:name": "UA1823 (PDX-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",
