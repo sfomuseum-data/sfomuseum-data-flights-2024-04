@@ -2,10 +2,12 @@
   "id": 1897907397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-11",
+    "date:cessation_upper": "2024-04-11",
     "date:inception_lower": "2024-04-11",
     "date:inception_upper": "2024-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-11",
+    "edtf:cessation": "2024-04-11T20:05:00Z",
+    "edtf:inception": "2024-04-11T14:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PD",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82756523"
+    },
     "wof:country": "US",
     "wof:created": 1712938309,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -92,7 +97,7 @@
       1763588267,
       1159283753
     ],
-    "wof:lastmodified": 1712938309,
+    "wof:lastmodified": 1712939622,
     "wof:name": "PD669 (YYZ-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

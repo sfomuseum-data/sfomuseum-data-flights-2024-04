@@ -2,10 +2,12 @@
   "id": 1897912259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-12",
+    "date:cessation_upper": "2024-04-12",
     "date:inception_lower": "2024-04-11",
     "date:inception_upper": "2024-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-11",
+    "edtf:cessation": "2024-04-12T01:33:30Z",
+    "edtf:inception": "2024-04-11T23:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20240411-D-ACA-5669",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N834UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82817459",
+      "swim:gufi": "KO73695500"
+    },
     "wof:country": "US",
     "wof:created": 1712939474,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897912259,
     "wof:involves": [
+      1763588289,
+      1159283597,
+      1159289407,
       102531189,
       102527513,
-      1159285413,
-      1763588289,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1712939474,
+    "wof:lastmodified": 1712939620,
     "wof:name": "UA566 (SFO-DEN)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",

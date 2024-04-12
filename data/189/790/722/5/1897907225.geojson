@@ -2,10 +2,12 @@
   "id": 1897907225,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-11",
+    "date:cessation_upper": "2024-04-11",
     "date:inception_lower": "2024-04-11",
     "date:inception_upper": "2024-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-11",
+    "edtf:cessation": "2024-04-11T20:09:00Z",
+    "edtf:inception": "2024-04-11T14:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82756492"
+    },
     "wof:country": "US",
     "wof:created": 1712938265,
     "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
@@ -92,7 +97,7 @@
       1763588203,
       1779770723
     ],
-    "wof:lastmodified": 1712938265,
+    "wof:lastmodified": 1712939620,
     "wof:name": "B6577 (FLL-SFO)",
     "wof:parent_id": 1763588203,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897905511,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-11",
+    "date:cessation_upper": "2024-04-11",
     "date:inception_lower": "2024-04-11",
     "date:inception_upper": "2024-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-11",
+    "edtf:cessation": "2024-04-11T19:42:02Z",
+    "edtf:inception": "2024-04-11T15:19:36Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82856466"
+    },
     "wof:country": "US",
     "wof:created": 1712937843,
     "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
@@ -92,7 +97,7 @@
       1763588413,
       1159284261
     ],
-    "wof:lastmodified": 1712937843,
+    "wof:lastmodified": 1712939608,
     "wof:name": "AM668 (MEX-SFO)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",

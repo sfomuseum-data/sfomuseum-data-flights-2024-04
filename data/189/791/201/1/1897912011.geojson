@@ -2,10 +2,12 @@
   "id": 1897912011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-12",
+    "date:cessation_upper": "2024-04-12",
     "date:inception_lower": "2024-04-11",
     "date:inception_upper": "2024-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-11",
+    "edtf:cessation": "2024-04-12T01:11:41Z",
+    "edtf:inception": "2024-04-11T23:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20240411-D-ANA-7302",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82820136",
+      "swim:gufi": "KO73595500"
+    },
     "wof:country": "US",
     "wof:created": 1712939416,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1897912011,
     "wof:involves": [
+      1159289407,
       102527363,
       102527513,
       1159285413,
       1763588291,
       1159283875
     ],
-    "wof:lastmodified": 1712939416,
+    "wof:lastmodified": 1712939618,
     "wof:name": "UA2002 (SFO-SLC)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897912245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-11",
+    "date:cessation_upper": "2024-04-11",
     "date:inception_lower": "2024-04-11",
     "date:inception_upper": "2024-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-11",
+    "edtf:cessation": "2024-04-11T16:23:00Z",
+    "edtf:inception": "2024-04-11T12:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20240411-D-ACA-5366",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82750077",
+      "swim:gufi": "KO33636500"
+    },
     "wof:country": "US",
     "wof:created": 1712939471,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897912245,
     "wof:involves": [
+      1763588279,
+      1159283597,
+      1377564285,
       102533631,
       102527513,
-      1159285413,
-      1763588279,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1712939471,
+    "wof:lastmodified": 1712939620,
     "wof:name": "UA561 (SFO-ORD)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897908425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-11",
+    "date:cessation_upper": "2024-04-11",
     "date:inception_lower": "2024-04-11",
     "date:inception_upper": "2024-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-11",
+    "edtf:cessation": "2024-04-11T18:03:00Z",
+    "edtf:inception": "2024-04-11T13:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B788",
     "icao:airline": "UAL",
     "icao:base_airline": "MSR",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240411-A-MSR-9322",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "82749640",
+      "swim:gufi": "KW32862500"
+    },
     "wof:country": "US",
     "wof:created": 1712938551,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -90,9 +98,10 @@
       102528817,
       1159285413,
       1763588321,
-      1159284325
+      1159284325,
+      1159289995
     ],
-    "wof:lastmodified": 1712938551,
+    "wof:lastmodified": 1712939628,
     "wof:name": "UA700 (IAD-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",
