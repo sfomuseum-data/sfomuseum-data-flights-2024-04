@@ -1,0 +1,69 @@
+{
+  "id": 1897905989,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-04-11",
+    "date:inception_upper": "2024-04-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2024-04-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS0000",
+    "flysfo:gate": "",
+    "flysfo:journey": "SJC-SFO",
+    "flysfo:scheduled_timestamp": 1712867400,
+    "flysfo:timestamp": 1712867400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.363728,-121.928755,37.617990",
+    "geom:latitude": 37.490859,
+    "geom:longitude": -122.14984899999999,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527529,
+    "sfomuseum:flight_id": "20240411-A-ASA-0000",
+    "sfomuseum:flight_number": [
+      "ASA0000",
+      "AS0000"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1712937965,
+    "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897905989
+      }
+    ],
+    "wof:id": 1897905989,
+    "wof:involves": [
+      102527513,
+      102527529,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1712937965,
+    "wof:name": "AS0000 (SJC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-04",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.363728,
+    -121.928755,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
