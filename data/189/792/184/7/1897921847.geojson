@@ -2,10 +2,12 @@
   "id": 1897921847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-13",
+    "date:cessation_upper": "2024-04-13",
     "date:inception_lower": "2024-04-13",
     "date:inception_upper": "2024-04-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-13",
+    "edtf:cessation": "2024-04-13T23:40:00Z",
+    "edtf:inception": "2024-04-13T23:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-04-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527529,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N662DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "83029380",
+      "swim:gufi": "KO79561700"
+    },
     "wof:country": "US",
     "wof:created": 1713111794,
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1897921847,
     "wof:involves": [
+      1159289939,
       102527529,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1713111794,
+    "wof:lastmodified": 1713112297,
     "wof:name": "DL8842 (SFO-SJC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

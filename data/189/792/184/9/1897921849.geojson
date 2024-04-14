@@ -2,10 +2,12 @@
   "id": 1897921849,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-14",
+    "date:cessation_upper": "2024-04-14",
     "date:inception_lower": "2024-04-13",
     "date:inception_upper": "2024-04-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-13",
+    "edtf:cessation": "2024-04-14T02:21:12Z",
+    "edtf:inception": "2024-04-13T22:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-04-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.8002995,
     "geom:longitude": -106.31638749999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530009,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N707TW",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "82999451",
+      "swim:gufi": "KO61860700"
+    },
     "wof:country": "US",
     "wof:created": 1713111795,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1897921849,
     "wof:involves": [
-      102530009,
-      102527513,
       1159284261,
-      -1
+      1159289939,
+      102530009,
+      102527513
     ],
-    "wof:lastmodified": 1713111795,
+    "wof:lastmodified": 1713112297,
     "wof:name": "DL8934 (SFO-MSY)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

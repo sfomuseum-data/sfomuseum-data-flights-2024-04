@@ -2,10 +2,12 @@
   "id": 1897917549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-14",
+    "date:cessation_upper": "2024-04-14",
     "date:inception_lower": "2024-04-13",
     "date:inception_upper": "2024-04-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-13",
+    "edtf:cessation": "2024-04-14T02:36:00Z",
+    "edtf:inception": "2024-04-13T21:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.40440999999998,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240413-A-AAL-7579",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83021988"
+    },
     "wof:country": "US",
     "wof:created": 1713110790,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -90,9 +101,10 @@
       102532929,
       1159283813,
       1763588139,
-      1159283849
+      1159283849,
+      1377564285
     ],
-    "wof:lastmodified": 1713110790,
+    "wof:lastmodified": 1713112292,
     "wof:name": "AS902 (OGG-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",
