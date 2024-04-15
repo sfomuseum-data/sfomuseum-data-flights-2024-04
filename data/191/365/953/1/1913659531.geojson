@@ -2,10 +2,12 @@
   "id": 1913659531,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-04-14",
-    "date:inception_upper": "2024-04-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-14",
+    "date:cessation_lower": "2024-04-15",
+    "date:cessation_upper": "2024-04-15",
+    "date:inception_lower": "2024-04-15",
+    "date:inception_upper": "2024-04-15",
+    "edtf:cessation": "2024-04-15T01:26:00Z",
+    "edtf:inception": "2024-04-15T00:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-04-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N662DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "83121677"
+    },
     "wof:country": "US",
     "wof:created": 1713198259,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -48,9 +59,9 @@
       102527363,
       102527513,
       1159284261,
-      -1
+      1159289939
     ],
-    "wof:lastmodified": 1713198259,
+    "wof:lastmodified": 1713198816,
     "wof:name": "DL8944 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

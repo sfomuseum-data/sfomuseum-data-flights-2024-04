@@ -2,10 +2,12 @@
   "id": 1913654959,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-14",
+    "date:cessation_upper": "2024-04-14",
     "date:inception_lower": "2024-04-14",
     "date:inception_upper": "2024-04-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-14",
+    "edtf:cessation": "2024-04-14T15:08:54Z",
+    "edtf:inception": "2024-04-14T13:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "CPA",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240414-A-CPA-7997",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83103142",
+      "swim:gufi": "KS42914104"
+    },
     "wof:country": "US",
     "wof:created": 1713197157,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913654959,
     "wof:involves": [
-      102527513,
       102533269,
       1159283813,
       1763588143,
-      1159284127
+      1159284127,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1713197157,
+    "wof:lastmodified": 1713198791,
     "wof:name": "AS1082 (SEA-SFO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

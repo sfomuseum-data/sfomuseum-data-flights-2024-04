@@ -2,10 +2,12 @@
   "id": 1913655697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-14",
+    "date:cessation_upper": "2024-04-14",
     "date:inception_lower": "2024-04-14",
     "date:inception_upper": "2024-04-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-14",
+    "edtf:cessation": "2024-04-14T18:12:00Z",
+    "edtf:inception": "2024-04-14T12:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83063172"
+    },
     "wof:country": "US",
     "wof:created": 1713197337,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -92,7 +97,7 @@
       1763588249,
       1159284327
     ],
-    "wof:lastmodified": 1713197337,
+    "wof:lastmodified": 1713198797,
     "wof:name": "DL977 (BOS-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",
