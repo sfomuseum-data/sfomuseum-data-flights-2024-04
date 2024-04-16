@@ -2,10 +2,12 @@
   "id": 1913668913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-16",
+    "date:cessation_upper": "2024-04-16",
     "date:inception_lower": "2024-04-15",
     "date:inception_upper": "2024-04-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-15",
+    "edtf:cessation": "2024-04-16T02:01:00Z",
+    "edtf:inception": "2024-04-15T21:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83198016"
+    },
     "wof:country": "US",
     "wof:created": 1713284514,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -92,7 +97,7 @@
       1763588141,
       1159285043
     ],
-    "wof:lastmodified": 1713284514,
+    "wof:lastmodified": 1713285183,
     "wof:name": "AS28 (SFO-JFK)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

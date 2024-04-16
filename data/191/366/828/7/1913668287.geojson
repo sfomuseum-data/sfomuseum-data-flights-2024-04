@@ -2,10 +2,12 @@
   "id": 1913668287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-15",
+    "date:cessation_upper": "2024-04-15",
     "date:inception_lower": "2024-04-15",
     "date:inception_upper": "2024-04-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-15",
+    "edtf:cessation": "2024-04-15T22:05:00Z",
+    "edtf:inception": "2024-04-15T20:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20240415-D-ANZ-4610",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGEMV",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83185306",
+      "swim:gufi": "KO59227200"
+    },
     "wof:country": "US",
     "wof:created": 1713284367,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913668287,
     "wof:involves": [
+      1528104575,
       102555307,
       102527513,
       1159283597,
       1763588159,
       1159283697
     ],
-    "wof:lastmodified": 1713284367,
+    "wof:lastmodified": 1713285170,
     "wof:name": "AC565 (SFO-YVR)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",
