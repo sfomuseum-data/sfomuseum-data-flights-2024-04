@@ -2,10 +2,12 @@
   "id": 1913674925,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-04-16",
-    "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
+    "date:inception_lower": "2024-04-17",
+    "date:inception_upper": "2024-04-17",
+    "edtf:cessation": "2024-04-17T02:54:00Z",
+    "edtf:inception": "2024-04-17T02:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240416-A-AAR-6346",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N844UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83219887",
+      "swim:gufi": "KO81902302"
+    },
     "wof:country": "US",
     "wof:created": 1713370461,
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913674925,
     "wof:involves": [
+      1159283917,
+      1159289407,
       102527513,
       102525535,
       1159285413,
-      1763588291,
-      1159283917
+      1763588291
     ],
-    "wof:lastmodified": 1713370461,
+    "wof:lastmodified": 1713371532,
     "wof:name": "UA2181 (RNO-SFO)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1913673523,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
     "date:inception_lower": "2024-04-16",
     "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "edtf:cessation": "2024-04-17T03:48:00Z",
+    "edtf:inception": "2024-04-16T22:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240416-A-AFR-5774",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N880DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83301760"
+    },
     "wof:country": "US",
     "wof:created": 1713370138,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913673523,
     "wof:involves": [
+      1377564285,
       102527513,
       102525635,
       1159284261,
       1763588249,
       1159283627
     ],
-    "wof:lastmodified": 1713370138,
+    "wof:lastmodified": 1713371528,
     "wof:name": "DL963 (DTW-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

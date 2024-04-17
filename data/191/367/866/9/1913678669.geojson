@@ -2,10 +2,12 @@
   "id": 1913678669,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-04-16",
-    "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
+    "date:inception_lower": "2024-04-17",
+    "date:inception_upper": "2024-04-17",
+    "edtf:cessation": "2024-04-17T09:00:30Z",
+    "edtf:inception": "2024-04-17T04:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20240416-D-ANZ-9161",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27539",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83225243",
+      "swim:gufi": "KO05585400"
+    },
     "wof:country": "US",
     "wof:created": 1713371338,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913678669,
     "wof:involves": [
-      102528817,
-      102527513,
       1159285413,
       1763588343,
-      1159283697
+      1159283697,
+      1528104577,
+      102528817,
+      102527513
     ],
-    "wof:lastmodified": 1713371338,
+    "wof:lastmodified": 1713371544,
     "wof:name": "UA2117 (SFO-IAD)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

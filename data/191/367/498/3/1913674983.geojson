@@ -2,10 +2,12 @@
   "id": 1913674983,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-16",
+    "date:cessation_upper": "2024-04-16",
     "date:inception_lower": "2024-04-16",
     "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "edtf:cessation": "2024-04-16T14:06:24Z",
+    "edtf:inception": "2024-04-16T13:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240416-A-ACA-4424",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N37523",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83245912",
+      "swim:gufi": "KL36467300"
+    },
     "wof:country": "US",
     "wof:created": 1713370474,
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913674983,
     "wof:involves": [
+      1528104577,
       102527513,
       102533575,
       1159285413,
       1763588351,
       1159283597
     ],
-    "wof:lastmodified": 1713370474,
+    "wof:lastmodified": 1713371532,
     "wof:name": "UA2638 (ONT-SFO)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",

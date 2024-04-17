@@ -2,10 +2,12 @@
   "id": 1913673731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-16",
+    "date:cessation_upper": "2024-04-16",
     "date:inception_lower": "2024-04-16",
     "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "edtf:cessation": "2024-04-16T22:16:03Z",
+    "edtf:inception": "2024-04-16T20:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-04-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "F9",
+    "icao:aircraft": "A321",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -48,6 +52,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83291078",
+      "swim:gufi": "KS70302300"
+    },
     "wof:country": "US",
     "wof:created": 1713370186,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1913673731,
     "wof:involves": [
-      102527513,
-      102532251,
       1159284401,
-      1763588199
+      1763588199,
+      1159289411,
+      102527513,
+      102532251
     ],
-    "wof:lastmodified": 1713370186,
+    "wof:lastmodified": 1713371551,
     "wof:name": "F93930 (PDX-SFO)",
     "wof:parent_id": 1763588199,
     "wof:placetype": "custom",

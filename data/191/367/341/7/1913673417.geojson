@@ -2,10 +2,12 @@
   "id": 1913673417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
     "date:inception_lower": "2024-04-16",
     "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "edtf:cessation": "2024-04-17T05:28:39Z",
+    "edtf:inception": "2024-04-16T17:25:09Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2024-04-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 30.532669,
     "geom:longitude": -4.4856934999999964,
     "iata:airline": "CZ",
+    "icao:aircraft": "B77W",
     "icao:airline": "CSN",
     "lbl:latitude": 37.611565,
     "lbl:longitude": -122.389912,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159284165,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102550391,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83255290"
+    },
     "wof:country": "US",
     "wof:created": 1713370114,
     "wof:geomhash": "247e1e318adb65668d4614fd3ca74ae2",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1913673417,
     "wof:involves": [
-      102527513,
       102550391,
       1159284165,
-      1763588429
+      1763588429,
+      1159289993,
+      102527513
     ],
-    "wof:lastmodified": 1713370114,
+    "wof:lastmodified": 1713371527,
     "wof:name": "CZ657 (CAN-SFO)",
     "wof:parent_id": 1763588429,
     "wof:placetype": "custom",

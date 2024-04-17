@@ -2,10 +2,12 @@
   "id": 1913677267,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-16",
+    "date:cessation_upper": "2024-04-16",
     "date:inception_lower": "2024-04-16",
     "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "edtf:cessation": "2024-04-16T14:27:00Z",
+    "edtf:inception": "2024-04-16T12:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83244576"
+    },
     "wof:country": "US",
     "wof:created": 1713371011,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -92,7 +97,7 @@
       1763588253,
       1159283539
     ],
-    "wof:lastmodified": 1713371011,
+    "wof:lastmodified": 1713371540,
     "wof:name": "DL676 (SFO-SLC)",
     "wof:parent_id": 1763588253,
     "wof:placetype": "custom",

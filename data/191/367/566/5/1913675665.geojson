@@ -2,10 +2,12 @@
   "id": 1913675665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
     "date:inception_lower": "2024-04-16",
     "date:inception_upper": "2024-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-16",
+    "edtf:cessation": "2024-04-17T03:35:15Z",
+    "edtf:inception": "2024-04-16T23:42:59Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83385310"
+    },
     "wof:country": "US",
     "wof:created": 1713370630,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -92,7 +97,7 @@
       1763588221,
       1159284021
     ],
-    "wof:lastmodified": 1713370630,
+    "wof:lastmodified": 1713371535,
     "wof:name": "AA2312 (SFO-ORD)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",
