@@ -1,0 +1,69 @@
+{
+  "id": 1913680919,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-04-17",
+    "date:inception_upper": "2024-04-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2024-04-17",
+    "flysfo:estimated_timestamp": 1713393780,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS9809",
+    "flysfo:gate": "",
+    "flysfo:journey": "SAN-SFO",
+    "flysfo:scheduled_timestamp": 1713391980,
+    "flysfo:timestamp": 1713393780,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528997,
+    "sfomuseum:flight_id": "20240417-A-ASA-9809",
+    "sfomuseum:flight_number": [
+      "ASA9809",
+      "AS9809"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1713456407,
+    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1913680919
+      }
+    ],
+    "wof:id": 1913680919,
+    "wof:involves": [
+      102527513,
+      102528997,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1713456407,
+    "wof:name": "AS9809 (SAN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-04",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.733534,
+    -117.185927,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
