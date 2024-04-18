@@ -2,10 +2,12 @@
   "id": 1913682925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
     "date:inception_lower": "2024-04-17",
     "date:inception_upper": "2024-04-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-17",
+    "edtf:cessation": "2024-04-17T13:40:00Z",
+    "edtf:inception": "2024-04-17T09:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-04-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "83420764"
+    },
     "wof:country": "US",
     "wof:created": 1713456891,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -45,12 +55,12 @@
     ],
     "wof:id": 1913682925,
     "wof:involves": [
-      102527513,
-      102533631,
       1159285413,
-      -1
+      1377564285,
+      102527513,
+      102533631
     ],
-    "wof:lastmodified": 1713456891,
+    "wof:lastmodified": 1713457992,
     "wof:name": "UA3928 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

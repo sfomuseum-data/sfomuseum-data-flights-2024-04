@@ -2,10 +2,12 @@
   "id": 1913685161,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
     "date:inception_lower": "2024-04-17",
     "date:inception_upper": "2024-04-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-17",
+    "edtf:cessation": "2024-04-17T22:04:05Z",
+    "edtf:inception": "2024-04-17T08:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2024-04-17",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83327227"
+    },
     "wof:country": "US",
     "wof:created": 1713457424,
     "wof:geomhash": "c46dd454257f76c15a9276e2946c6f54",
@@ -86,7 +91,7 @@
       1159284165,
       1763588429
     ],
-    "wof:lastmodified": 1713457424,
+    "wof:lastmodified": 1713458009,
     "wof:name": "CZ658 (SFO-CAN)",
     "wof:parent_id": 1763588429,
     "wof:placetype": "custom",

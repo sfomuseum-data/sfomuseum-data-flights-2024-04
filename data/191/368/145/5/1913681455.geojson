@@ -2,10 +2,12 @@
   "id": 1913681455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-17",
+    "date:cessation_upper": "2024-04-17",
     "date:inception_lower": "2024-04-17",
     "date:inception_upper": "2024-04-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-17",
+    "edtf:cessation": "2024-04-17T17:53:00Z",
+    "edtf:inception": "2024-04-17T13:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83342308"
+    },
     "wof:country": "US",
     "wof:created": 1713456535,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -92,7 +97,7 @@
       1763588251,
       1159284625
     ],
-    "wof:lastmodified": 1713456535,
+    "wof:lastmodified": 1713457987,
     "wof:name": "DL361 (DTW-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
