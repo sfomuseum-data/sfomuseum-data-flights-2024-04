@@ -2,10 +2,12 @@
   "id": 1913691423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-18",
+    "date:cessation_upper": "2024-04-18",
     "date:inception_lower": "2024-04-18",
     "date:inception_upper": "2024-04-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-18",
+    "edtf:cessation": "2024-04-18T15:03:00Z",
+    "edtf:inception": "2024-04-18T01:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 11.236410499999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240418-A-VOZ-8003",
@@ -53,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83412206",
+      "swim:gufi": "KO79006400"
+    },
     "wof:country": "US",
     "wof:created": 1713543354,
     "wof:geomhash": "87faaa2af80cb57714136e3a98b5d686",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913691423,
     "wof:involves": [
-      102527513,
-      102557779,
       1159285413,
       1763588437,
-      1159285485
+      1159285485,
+      1159293215,
+      102527513,
+      102557779
     ],
-    "wof:lastmodified": 1713543354,
+    "wof:lastmodified": 1713544415,
     "wof:name": "UA61 (MEL-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

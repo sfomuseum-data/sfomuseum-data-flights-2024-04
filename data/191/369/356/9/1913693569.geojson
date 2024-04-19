@@ -2,10 +2,12 @@
   "id": 1913693569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-18",
+    "date:cessation_upper": "2024-04-18",
     "date:inception_lower": "2024-04-18",
     "date:inception_upper": "2024-04-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-18",
+    "edtf:cessation": "2024-04-18T02:59:52Z",
+    "edtf:inception": "2024-04-18T02:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "CAL",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240418-D-CAL-9099",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N3773D",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83416399"
+    },
     "wof:country": "US",
     "wof:created": 1713543852,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913693569,
     "wof:involves": [
-      102533795,
       102527513,
       1159284261,
       1763588255,
-      1159284153
+      1159284153,
+      1159289871,
+      102533795
     ],
-    "wof:lastmodified": 1713543852,
+    "wof:lastmodified": 1713544429,
     "wof:name": "DL1392 (SFO-LAX)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",

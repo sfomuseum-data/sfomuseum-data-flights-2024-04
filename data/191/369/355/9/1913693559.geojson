@@ -2,10 +2,12 @@
   "id": 1913693559,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-18",
+    "date:cessation_upper": "2024-04-18",
     "date:inception_lower": "2024-04-18",
     "date:inception_upper": "2024-04-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-18",
+    "edtf:cessation": "2024-04-18T11:12:00Z",
+    "edtf:inception": "2024-04-18T06:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20240418-D-AMX-4520",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N710TW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83424712"
+    },
     "wof:country": "US",
     "wof:created": 1713543850,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913693559,
     "wof:involves": [
+      1159283539,
+      1159289939,
       102534365,
       102527513,
       1159284261,
-      1763588239,
-      1159283539
+      1763588239
     ],
-    "wof:lastmodified": 1713543850,
+    "wof:lastmodified": 1713544429,
     "wof:name": "DL1180 (SFO-JFK)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",
