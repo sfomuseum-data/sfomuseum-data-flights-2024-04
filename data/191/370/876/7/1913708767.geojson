@@ -1,0 +1,69 @@
+{
+  "id": 1913708767,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-04-20",
+    "date:inception_upper": "2024-04-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2024-04-20",
+    "flysfo:estimated_timestamp": 1713617700,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS9720",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-PVU",
+    "flysfo:scheduled_timestamp": 1713616200,
+    "flysfo:timestamp": 1713617700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-111.722380,40.219724",
+    "geom:latitude": 38.918857,
+    "geom:longitude": -117.0466615,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102532277,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240420-D-ASA-9720",
+    "sfomuseum:flight_number": [
+      "ASA9720",
+      "AS9720"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1713716473,
+    "wof:geomhash": "855a08f9b6f780333367899da8373a5a",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1913708767
+      }
+    ],
+    "wof:id": 1913708767,
+    "wof:involves": [
+      102532277,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1713716473,
+    "wof:name": "AS9720 (SFO-PVU)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-04",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -111.72238,
+    40.219724
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.72238,40.219724]],"type":"MultiPoint"}
+}
