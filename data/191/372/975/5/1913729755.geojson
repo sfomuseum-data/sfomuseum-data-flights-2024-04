@@ -2,10 +2,12 @@
   "id": 1913729755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-23",
+    "date:cessation_upper": "2024-04-23",
     "date:inception_lower": "2024-04-23",
     "date:inception_upper": "2024-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-23",
+    "edtf:cessation": "2024-04-23T17:44:00Z",
+    "edtf:inception": "2024-04-23T16:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240423-A-KAL-7247",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N3763D",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83972379",
+      "swim:gufi": "KL52861300"
+    },
     "wof:country": "US",
     "wof:created": 1713975060,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913729755,
     "wof:involves": [
-      102527513,
       102533795,
       1159284261,
       1763588239,
-      1159284625
+      1159284625,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1713975060,
+    "wof:lastmodified": 1713976947,
     "wof:name": "DL1364 (LAX-SFO)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

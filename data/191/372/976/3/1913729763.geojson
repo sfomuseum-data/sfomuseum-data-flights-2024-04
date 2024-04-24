@@ -2,10 +2,12 @@
   "id": 1913729763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-23",
+    "date:cessation_upper": "2024-04-23",
     "date:inception_lower": "2024-04-23",
     "date:inception_upper": "2024-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-23",
+    "edtf:cessation": "2024-04-23T15:09:43Z",
+    "edtf:inception": "2024-04-23T13:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83958630"
+    },
     "wof:country": "US",
     "wof:created": 1713975063,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,7 +97,7 @@
       1763588245,
       1159284625
     ],
-    "wof:lastmodified": 1713975063,
+    "wof:lastmodified": 1713976947,
     "wof:name": "DL2321 (SEA-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

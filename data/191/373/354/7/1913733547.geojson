@@ -2,10 +2,12 @@
   "id": 1913733547,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-23",
+    "date:cessation_upper": "2024-04-23",
     "date:inception_lower": "2024-04-23",
     "date:inception_upper": "2024-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-23",
+    "edtf:cessation": "2024-04-23T21:22:36Z",
+    "edtf:inception": "2024-04-23T07:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2024-04-23",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83939620"
+    },
     "wof:country": "US",
     "wof:created": 1713976218,
     "wof:geomhash": "45e7108794d81a2dcecee3acf14ea6a4",
@@ -86,7 +91,7 @@
       1159284165,
       1763588431
     ],
-    "wof:lastmodified": 1713976218,
+    "wof:lastmodified": 1713976961,
     "wof:name": "CZ660 (SFO-WUH)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",

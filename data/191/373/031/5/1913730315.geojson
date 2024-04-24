@@ -2,10 +2,12 @@
   "id": 1913730315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-23",
+    "date:cessation_upper": "2024-04-23",
     "date:inception_lower": "2024-04-23",
     "date:inception_upper": "2024-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-23",
+    "edtf:cessation": "2024-04-23T16:45:47Z",
+    "edtf:inception": "2024-04-23T10:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240423-A-ICE-7889",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83945819",
+      "swim:gufi": "KN30814300"
+    },
     "wof:country": "US",
     "wof:created": 1713975232,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -90,9 +98,10 @@
       102534365,
       1159284583,
       1763588183,
-      1159284513
+      1159284513,
+      1159289411
     ],
-    "wof:lastmodified": 1713975232,
+    "wof:lastmodified": 1713976937,
     "wof:name": "B615 (JFK-SFO)",
     "wof:parent_id": 1763588183,
     "wof:placetype": "custom",

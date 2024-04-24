@@ -2,10 +2,12 @@
   "id": 1913734141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-23",
+    "date:cessation_upper": "2024-04-23",
     "date:inception_lower": "2024-04-23",
     "date:inception_upper": "2024-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-23",
+    "edtf:cessation": "2024-04-23T18:09:04Z",
+    "edtf:inception": "2024-04-23T13:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "83957041"
+    },
     "wof:country": "US",
     "wof:created": 1713976399,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -92,7 +97,7 @@
       1763588199,
       1159284513
     ],
-    "wof:lastmodified": 1713976399,
+    "wof:lastmodified": 1713976963,
     "wof:name": "B6434 (SFO-BOS)",
     "wof:parent_id": 1763588199,
     "wof:placetype": "custom",
