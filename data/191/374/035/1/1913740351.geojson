@@ -2,10 +2,12 @@
   "id": 1913740351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-25",
+    "date:cessation_upper": "2024-04-25",
     "date:inception_lower": "2024-04-25",
     "date:inception_upper": "2024-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-25",
+    "edtf:cessation": "2024-04-25T16:52:50Z",
+    "edtf:inception": "2024-04-25T06:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-04-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.381651,
     "geom:longitude": -0.285817999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102550331,
@@ -48,6 +52,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84159086",
+      "swim:gufi": "KO55108500"
+    },
     "wof:country": "US",
     "wof:created": 1714148390,
     "wof:geomhash": "0a16624c451961804ad27ef012213244",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1913740351,
     "wof:involves": [
-      102527513,
-      102550331,
       1159285413,
-      1763588419
+      1763588419,
+      1159293215,
+      102527513,
+      102550331
     ],
-    "wof:lastmodified": 1714148390,
+    "wof:lastmodified": 1714149847,
     "wof:name": "UA3891 (PVG-SFO)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

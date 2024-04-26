@@ -2,10 +2,12 @@
   "id": 1913744123,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-25",
+    "date:cessation_upper": "2024-04-25",
     "date:inception_lower": "2024-04-25",
     "date:inception_upper": "2024-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-25",
+    "edtf:cessation": "2024-04-25T04:09:00Z",
+    "edtf:inception": "2024-04-25T02:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:base_flight_id": "20240425-D-ACA-3334",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84151004",
+      "swim:gufi": "KO85774400"
+    },
     "wof:country": "US",
     "wof:created": 1714149545,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913744123,
     "wof:involves": [
-      102532251,
       102527513,
       1159285413,
       1763588351,
-      1159283597
+      1159283597,
+      1528104575,
+      102532251
     ],
-    "wof:lastmodified": 1714149545,
+    "wof:lastmodified": 1714149879,
     "wof:name": "UA1359 (SFO-PDX)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",
