@@ -2,10 +2,12 @@
   "id": 1913746443,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-26",
+    "date:cessation_upper": "2024-04-26",
     "date:inception_lower": "2024-04-26",
     "date:inception_upper": "2024-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-26",
+    "edtf:cessation": "2024-04-26T17:15:22Z",
+    "edtf:inception": "2024-04-26T11:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84284582"
+    },
     "wof:country": "US",
     "wof:created": 1714234116,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -92,7 +97,7 @@
       1763588145,
       1159283849
     ],
-    "wof:lastmodified": 1714234116,
+    "wof:lastmodified": 1714236207,
     "wof:name": "AS458 (IAD-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
