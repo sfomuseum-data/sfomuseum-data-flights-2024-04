@@ -2,10 +2,12 @@
   "id": 1913758527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-27",
+    "date:cessation_upper": "2024-04-27",
     "date:inception_lower": "2024-04-27",
     "date:inception_upper": "2024-04-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-27",
+    "edtf:cessation": "2024-04-27T18:38:00Z",
+    "edtf:inception": "2024-04-27T14:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:base_flight_id": "20240427-D-KLM-6327",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N924DZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84415063",
+      "swim:gufi": "KO48347700"
+    },
     "wof:country": "US",
     "wof:created": 1714321972,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913758527,
     "wof:involves": [
+      1159284613,
+      1377564285,
       102525635,
       102527513,
       1159284261,
-      1763588251,
-      1159284613
+      1763588251
     ],
-    "wof:lastmodified": 1714321972,
+    "wof:lastmodified": 1714322691,
     "wof:name": "DL506 (SFO-DTW)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
