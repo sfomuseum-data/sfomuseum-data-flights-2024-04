@@ -2,10 +2,12 @@
   "id": 1913767779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-28",
+    "date:cessation_upper": "2024-04-28",
     "date:inception_lower": "2024-04-28",
     "date:inception_upper": "2024-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-28",
+    "edtf:cessation": "2024-04-28T11:03:00Z",
+    "edtf:inception": "2024-04-28T06:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20240428-D-CMP-2876",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84485319",
+      "swim:gufi": "KO14023100"
+    },
     "wof:country": "US",
     "wof:created": 1714408799,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -90,9 +98,10 @@
       102527513,
       1159285413,
       1763588345,
-      1159284211
+      1159284211,
+      1159289871
     ],
-    "wof:lastmodified": 1714408799,
+    "wof:lastmodified": 1714409143,
     "wof:name": "UA1637 (SFO-MIA)",
     "wof:parent_id": 1763588345,
     "wof:placetype": "custom",

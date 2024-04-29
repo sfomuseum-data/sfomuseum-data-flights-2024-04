@@ -2,10 +2,12 @@
   "id": 1913764307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-28",
+    "date:cessation_upper": "2024-04-28",
     "date:inception_lower": "2024-04-28",
     "date:inception_upper": "2024-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-28",
+    "edtf:cessation": "2024-04-28T22:02:27Z",
+    "edtf:inception": "2024-04-28T11:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -0.285817999999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240428-A-CCA-7209",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84489780",
+      "swim:gufi": "KO14155100"
+    },
     "wof:country": "US",
     "wof:created": 1714407683,
     "wof:geomhash": "0a16624c451961804ad27ef012213244",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913764307,
     "wof:involves": [
-      102527513,
       102550331,
       1159285413,
       1763588461,
-      1159283605
+      1159283605,
+      1159289993,
+      102527513
     ],
-    "wof:lastmodified": 1714407683,
+    "wof:lastmodified": 1714409133,
     "wof:name": "UA858 (PVG-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

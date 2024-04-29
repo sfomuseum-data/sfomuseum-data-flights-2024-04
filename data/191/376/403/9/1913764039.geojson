@@ -2,10 +2,12 @@
   "id": 1913764039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-29",
+    "date:cessation_upper": "2024-04-29",
     "date:inception_lower": "2024-04-28",
     "date:inception_upper": "2024-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-28",
+    "edtf:cessation": "2024-04-29T05:08:00Z",
+    "edtf:inception": "2024-04-28T23:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240428-A-AAR-9530",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N47533",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84546528",
+      "swim:gufi": "KB78747100"
+    },
     "wof:country": "US",
     "wof:created": 1714407596,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913764039,
     "wof:involves": [
-      102527513,
       102530741,
       1159285413,
       1763588149,
-      1159283917
+      1159283917,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1714407596,
+    "wof:lastmodified": 1714409132,
     "wof:name": "UA2400 (BOS-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",
