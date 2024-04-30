@@ -2,10 +2,12 @@
   "id": 1913792441,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-04-29",
-    "date:inception_upper": "2024-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-29",
+    "date:cessation_lower": "2024-04-30",
+    "date:cessation_upper": "2024-04-30",
+    "date:inception_lower": "2024-04-30",
+    "date:inception_upper": "2024-04-30",
+    "edtf:cessation": "2024-04-30T05:46:00Z",
+    "edtf:inception": "2024-04-30T04:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240429-D-KAL-3084",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N314DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84567393",
+      "swim:gufi": "KO09943300"
+    },
     "wof:country": "US",
     "wof:created": 1714494758,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913792441,
     "wof:involves": [
+      1813375783,
       102533269,
       102527513,
       1159284261,
       1763588251,
       1159284625
     ],
-    "wof:lastmodified": 1714494758,
+    "wof:lastmodified": 1714495526,
     "wof:name": "DL692 (SFO-SEA)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

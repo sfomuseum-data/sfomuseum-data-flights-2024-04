@@ -2,10 +2,12 @@
   "id": 1913787917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-30",
+    "date:cessation_upper": "2024-04-30",
     "date:inception_lower": "2024-04-29",
     "date:inception_upper": "2024-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-29",
+    "edtf:cessation": "2024-04-30T01:17:47Z",
+    "edtf:inception": "2024-04-29T21:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84634480"
+    },
     "wof:country": "US",
     "wof:created": 1714493298,
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
@@ -92,7 +97,7 @@
       1763588215,
       1159283849
     ],
-    "wof:lastmodified": 1714493298,
+    "wof:lastmodified": 1714495513,
     "wof:name": "AS1370 (PVR-SFO)",
     "wof:parent_id": 1763588215,
     "wof:placetype": "custom",
