@@ -2,10 +2,12 @@
   "id": 1913810073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-01",
+    "date:cessation_upper": "2024-05-01",
     "date:inception_lower": "2024-04-30",
     "date:inception_upper": "2024-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-30",
+    "edtf:cessation": "2024-05-01T07:31:29Z",
+    "edtf:inception": "2024-04-30T15:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2024-04-30",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "84660030"
+    },
     "wof:country": "US",
     "wof:created": 1714580812,
     "wof:geomhash": "142a7e9d13c268eeb70ef8e16df288c7",
@@ -50,7 +55,7 @@
       1159283649,
       -1
     ],
-    "wof:lastmodified": 1714580812,
+    "wof:lastmodified": 1714581898,
     "wof:name": "AI176 (SFO-BLR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

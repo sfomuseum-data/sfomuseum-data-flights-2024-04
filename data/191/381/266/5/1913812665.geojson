@@ -2,10 +2,12 @@
   "id": 1913812665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-30",
+    "date:cessation_upper": "2024-04-30",
     "date:inception_lower": "2024-04-30",
     "date:inception_upper": "2024-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-30",
+    "edtf:cessation": "2024-04-30T20:03:00Z",
+    "edtf:inception": "2024-04-30T19:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:base_flight_id": "20240430-D-ACA-4518",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84708880",
+      "swim:gufi": "KO52256300"
+    },
     "wof:country": "US",
     "wof:created": 1714581603,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -90,9 +101,10 @@
       102527513,
       1159285413,
       1763588407,
-      1159283597
+      1159283597,
+      1159289407
     ],
-    "wof:lastmodified": 1714581603,
+    "wof:lastmodified": 1714581924,
     "wof:name": "UA2248 (SFO-SNA)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

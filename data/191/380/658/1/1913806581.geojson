@@ -2,10 +2,12 @@
   "id": 1913806581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-30",
+    "date:cessation_upper": "2024-04-30",
     "date:inception_lower": "2024-04-30",
     "date:inception_upper": "2024-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-04-30",
+    "edtf:cessation": "2024-04-30T15:31:57Z",
+    "edtf:inception": "2024-04-30T13:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240430-A-AAL-7464",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84686799",
+      "swim:gufi": "KS46692304"
+    },
     "wof:country": "US",
     "wof:created": 1714579710,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -90,9 +98,10 @@
       102532251,
       1159283813,
       1763588157,
-      1159283849
+      1159283849,
+      1159289871
     ],
-    "wof:lastmodified": 1714579710,
+    "wof:lastmodified": 1714581904,
     "wof:name": "AS1155 (PDX-SFO)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
