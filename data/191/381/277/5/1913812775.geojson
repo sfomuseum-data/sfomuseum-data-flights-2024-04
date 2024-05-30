@@ -40,6 +40,7 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
+        "custom_id": 1913812775,
         "flight_id": 1913812775
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1714581636,
+    "wof:lastmodified": 1717048698,
     "wof:name": "UA3929 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

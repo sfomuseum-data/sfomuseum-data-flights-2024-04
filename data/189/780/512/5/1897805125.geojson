@@ -45,6 +45,7 @@
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
     "wof:hierarchy": [
       {
+        "custom_id": 1897805125,
         "flight_id": 1897805125
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1712073741,
+    "wof:lastmodified": 1717048696,
     "wof:name": "AC3783 (FRA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

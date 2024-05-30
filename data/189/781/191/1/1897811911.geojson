@@ -54,6 +54,7 @@
     "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
     "wof:hierarchy": [
       {
+        "custom_id": 1897811911,
         "flight_id": 1897811911
       }
     ],
@@ -64,11 +65,13 @@
       1159289871,
       102533591
     ],
-    "wof:lastmodified": 1712075473,
+    "wof:lastmodified": 1717048683,
     "wof:name": "UA8138 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

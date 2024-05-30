@@ -57,6 +57,7 @@
     "wof:geomhash": "ac04d12b9bb720d89a4c8027fbef35a5",
     "wof:hierarchy": [
       {
+        "custom_id": 1913659825,
         "flight_id": 1913659825
       }
     ],
@@ -68,11 +69,13 @@
       1159283717,
       1159283849
     ],
-    "wof:lastmodified": 1713198806,
+    "wof:lastmodified": 1717048687,
     "wof:name": "FJ871 (SFO-NAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

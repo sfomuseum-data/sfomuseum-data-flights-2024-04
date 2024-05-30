@@ -45,6 +45,7 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897869055,
         "flight_id": 1897869055
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283717
     ],
-    "wof:lastmodified": 1712593507,
+    "wof:lastmodified": 1717048693,
     "wof:name": "JL7546 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

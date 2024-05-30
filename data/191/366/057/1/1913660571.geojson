@@ -53,6 +53,7 @@
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
     "wof:hierarchy": [
       {
+        "custom_id": 1913660571,
         "flight_id": 1913660571
       }
     ],
@@ -63,11 +64,13 @@
       102526751,
       102527513
     ],
-    "wof:lastmodified": 1713198787,
+    "wof:lastmodified": 1717048682,
     "wof:name": "WN152 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

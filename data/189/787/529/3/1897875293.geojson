@@ -45,6 +45,7 @@
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
     "wof:hierarchy": [
       {
+        "custom_id": 1897875293,
         "flight_id": 1897875293
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283627
     ],
-    "wof:lastmodified": 1712679031,
+    "wof:lastmodified": 1717048691,
     "wof:name": "KL605 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "83e3cf2d6d5d57bb8b348faf86770f57",
     "wof:hierarchy": [
       {
+        "custom_id": 1897886207,
         "flight_id": 1897886207
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1712765680,
+    "wof:lastmodified": 1717048692,
     "wof:name": "UA3892 (FCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

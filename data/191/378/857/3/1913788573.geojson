@@ -40,6 +40,7 @@
     "wof:geomhash": "82918c5e99f5bb53bff81082f1f1666f",
     "wof:hierarchy": [
       {
+        "custom_id": 1913788573,
         "flight_id": 1913788573
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1714493509,
+    "wof:lastmodified": 1717048695,
     "wof:name": "DL420 (TUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -51,6 +51,7 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
+        "custom_id": 1913811251,
         "flight_id": 1913811251
       }
     ],
@@ -61,11 +62,13 @@
       102527363,
       102527513
     ],
-    "wof:lastmodified": 1714581910,
+    "wof:lastmodified": 1717048697,
     "wof:name": "DL9966 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "9390a915336d8faff0e074cd5e7b3238",
     "wof:hierarchy": [
       {
+        "custom_id": 1897898881,
         "flight_id": 1897898881
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1712852593,
+    "wof:lastmodified": 1717048696,
     "wof:name": "DL8886 (SFO-PIE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

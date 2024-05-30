@@ -48,6 +48,7 @@
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897825967,
         "flight_id": 1897825967
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102531131
     ],
-    "wof:lastmodified": 1712248265,
+    "wof:lastmodified": 1717048684,
     "wof:name": "DL8844 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

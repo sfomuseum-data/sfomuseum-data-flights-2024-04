@@ -45,6 +45,7 @@
     "wof:geomhash": "0a41093e5d82882db018a6f46a3ef58a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897867619,
         "flight_id": 1897867619
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1712593172,
+    "wof:lastmodified": 1717048692,
     "wof:name": "NZ7 (SFO-AKL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

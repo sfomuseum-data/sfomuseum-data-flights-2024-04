@@ -40,6 +40,7 @@
     "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
     "wof:hierarchy": [
       {
+        "custom_id": 1913747795,
         "flight_id": 1913747795
       }
     ],
@@ -50,11 +51,13 @@
       1159286153,
       -1
     ],
-    "wof:lastmodified": 1714234539,
+    "wof:lastmodified": 1717048695,
     "wof:name": "QR21 (DOH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

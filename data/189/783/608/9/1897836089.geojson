@@ -48,6 +48,7 @@
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
     "wof:hierarchy": [
       {
+        "custom_id": 1897836089,
         "flight_id": 1897836089
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102542801
     ],
-    "wof:lastmodified": 1712334813,
+    "wof:lastmodified": 1717048682,
     "wof:name": "KL277 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

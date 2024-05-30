@@ -40,6 +40,7 @@
     "wof:geomhash": "ef262e0da13c3e8dd354e2b42ae8d539",
     "wof:hierarchy": [
       {
+        "custom_id": 1897905991,
         "flight_id": 1897905991
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1712937966,
+    "wof:lastmodified": 1717048695,
     "wof:name": "AS0001 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

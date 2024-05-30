@@ -40,6 +40,7 @@
     "wof:geomhash": "6716e4c7ca0e3c1891c385118d042906",
     "wof:hierarchy": [
       {
+        "custom_id": 1913719235,
         "flight_id": 1913719235
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1713803972,
+    "wof:lastmodified": 1717048689,
     "wof:name": "UA5195 (SFO-TUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

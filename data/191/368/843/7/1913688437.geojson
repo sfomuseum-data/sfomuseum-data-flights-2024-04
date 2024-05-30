@@ -40,6 +40,7 @@
     "wof:geomhash": "71cdaf51a648b6adc1eef8af56a4c6ba",
     "wof:hierarchy": [
       {
+        "custom_id": 1913688437,
         "flight_id": 1913688437
       }
     ],
@@ -50,11 +51,13 @@
       1159283649,
       -1
     ],
-    "wof:lastmodified": 1713542652,
+    "wof:lastmodified": 1717048688,
     "wof:name": "AI175 (BLR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

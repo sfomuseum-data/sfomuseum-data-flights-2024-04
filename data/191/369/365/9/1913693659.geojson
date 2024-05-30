@@ -51,6 +51,7 @@
     "wof:geomhash": "02eb21027b428b31b3a49fca7e3fb60f",
     "wof:hierarchy": [
       {
+        "custom_id": 1913693659,
         "flight_id": 1913693659
       }
     ],
@@ -61,11 +62,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1713544430,
+    "wof:lastmodified": 1717048684,
     "wof:name": "DL8838 (SFO-BFI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

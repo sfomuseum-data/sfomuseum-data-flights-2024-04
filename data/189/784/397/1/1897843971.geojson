@@ -45,6 +45,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897843971,
         "flight_id": 1897843971
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283917
     ],
-    "wof:lastmodified": 1712419349,
+    "wof:lastmodified": 1717048686,
     "wof:name": "AC3488 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
+        "custom_id": 1897886401,
         "flight_id": 1897886401
       }
     ],
@@ -63,11 +64,13 @@
       102534097,
       1159285413
     ],
-    "wof:lastmodified": 1712766732,
+    "wof:lastmodified": 1717048692,
     "wof:name": "UA8134 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

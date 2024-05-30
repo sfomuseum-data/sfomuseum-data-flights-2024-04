@@ -53,6 +53,7 @@
     "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
     "wof:hierarchy": [
       {
+        "custom_id": 1897806963,
         "flight_id": 1897806963
       }
     ],
@@ -63,11 +64,13 @@
       102530841,
       1159284583
     ],
-    "wof:lastmodified": 1712075430,
+    "wof:lastmodified": 1717048697,
     "wof:name": "B6377 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

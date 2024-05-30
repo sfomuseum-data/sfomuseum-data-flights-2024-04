@@ -48,6 +48,7 @@
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
     "wof:hierarchy": [
       {
+        "custom_id": 1897919585,
         "flight_id": 1897919585
       }
     ],
@@ -58,11 +59,13 @@
       102541737,
       1159285413
     ],
-    "wof:lastmodified": 1713112308,
+    "wof:lastmodified": 1717048699,
     "wof:name": "UA3902 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

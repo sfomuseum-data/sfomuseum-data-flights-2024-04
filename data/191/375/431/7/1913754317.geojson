@@ -40,6 +40,7 @@
     "wof:geomhash": "d887ded7dd7ecdf1f3f44081817da1ef",
     "wof:hierarchy": [
       {
+        "custom_id": 1913754317,
         "flight_id": 1913754317
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1714320556,
+    "wof:lastmodified": 1717048692,
     "wof:name": "AS9717 (PVU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

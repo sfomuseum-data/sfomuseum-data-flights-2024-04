@@ -52,6 +52,7 @@
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy": [
       {
+        "custom_id": 1913669263,
         "flight_id": 1913669263
       }
     ],
@@ -62,11 +63,13 @@
       1159289989,
       102526927
     ],
-    "wof:lastmodified": 1713285172,
+    "wof:lastmodified": 1717048687,
     "wof:name": "CI5346 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

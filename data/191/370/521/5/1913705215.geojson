@@ -40,6 +40,7 @@
     "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
     "wof:hierarchy": [
       {
+        "custom_id": 1913705215,
         "flight_id": 1913705215
       }
     ],
@@ -50,11 +51,13 @@
       1159284153,
       -1
     ],
-    "wof:lastmodified": 1713715650,
+    "wof:lastmodified": 1717048685,
     "wof:name": "CI5345 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-04",
     "wof:superseded_by": [],
     "wof:supersedes": []
